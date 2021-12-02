@@ -1,13 +1,12 @@
-import React from "react";
-import "./App.css";
-import { ProjectListScreen } from "./screens/project-list";
+import React from 'react';
+import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <ProjectListScreen />
-    </div>
-  );
+    return (
+        <div className="App">
+            App ...
+        </div>
+    );
 }
 
 export default App;
