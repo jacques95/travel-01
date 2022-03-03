@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c91885f7-e419-49c4-9fd5-b3653877b4ee" name="Changes" comment="ci: initialize">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/travel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/App.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/assets/fonts/Slidefu-Regular-2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/components/AddToCart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/components/Robot.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/components/Robot.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/components/ShoppingCart.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/components/ShoppingCart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/costom.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot-gallery/src/mockdata/robots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/_animation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/index.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25sQYR68Iod6r2rXqp25gRFG2QV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="D:\Practice\React\travel\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91885f7-e419-49c4-9fd5-b3653877b4ee" name="Changes" comment="" />
+      <created>1646313365098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646313365098</updated>
+      <workItem from="1646313367728" duration="1552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ci: initialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci: initialize" />
+  </component>
+</project>
